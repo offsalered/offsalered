@@ -48,6 +48,3 @@
 ---
 
 
-- customized badges (shields.io) for your main projects,
-- to remove social icons you don't use, or
-- a super-minimal variant for mobile viewers.
